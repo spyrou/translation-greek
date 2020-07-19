@@ -46,7 +46,7 @@ THEMES AND PLUGINS
     "> Install","> Namesti"
     ">Installed version:",">Nameščena verzija:"
     ">Custom repository",">Odlagališče po meri (repository)"
-    ">Enter URL to custom repository","Vnesi URL za odlagališče"
+    "Enter URL to custom repository","Vnesi URL za odlagališče"
     "> Add", "> Dodaj"
     "> Read more about custom repositories",">Preberi več o odlagališčih po meri"
 
@@ -55,8 +55,8 @@ SECURITY
     ">Admin login URL","> URL/povezava za vpis"
     ">Save your login URL to log into your website next time:",">Shrani svojo URL povezavo za ponoven vpis z admin računom"
     ">Password",">Geslo"
-    ">Old password","Staro geslo"
-    ">New password","Novo geslo"
+    "Old password","Staro geslo"
+    "New password","Novo geslo"
     "> Change password","> Spremeni geslo"
 
     "> How to restore backup","> Kako obnoviti varnostno kopijo"
