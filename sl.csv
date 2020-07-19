@@ -53,7 +53,7 @@ THEMES AND PLUGINS
 
 SECURITY
     ">Admin login URL","> URL/povezava za vpis"
-    ">Save your login URL to log into your website next time:",">Shrani svojo URL povezavo za ponoven vpis z admin računom"
+    ">Save your login URL to log in to your website next time:",">Shrani svojo URL povezavo za ponoven vpis z admin računom"
     ">Password",">Geslo"
     "Old password","Staro geslo"
     "New password","Novo geslo"
