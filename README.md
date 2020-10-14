@@ -1,6 +1,6 @@
 <p align="center"><img src="preview.jpg?v=3" /></p>
 <h1 align="center">language-el</h1>
-<p align="center">Greek translations for WonderCMS (by Yannis Spyrou)</p>
+<p align="center">Slovenian translations for WonderCMS (by Stephan Stanisic)</p>
 
 <br><br>
 
@@ -12,7 +12,7 @@ This plugin adds Slovenian translations to the WonderCMS admin area, based on `h
 3. Rename translation-slovenian.php to "translation-yourlanguage.php" (replace yourlanguage with your actual language).
 4. Make sure the repository name matches with the PHP file mentioned in point 3.
 5. Edit the SVG file (picture) directly on GitHub (or choose any other editor): https://github.com/robiso/translation-slovenian/edit/master/language-solid.svg
-- on line 78, change "Greek" to your language.
+- on line 78, change "Slovenian" to your language.
 6. Rename sl.csv to your country locale (list of country locales https://www.science.co.il/language/Locale-codes.php) and save.
 7. Translate the .csv file.
 8. Update summary file.
